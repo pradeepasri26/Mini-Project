@@ -54,7 +54,7 @@ plt.show()
 ![image](https://github.com/pradeepasri26/Mini-Project/assets/131433142/25302115-06a9-42fb-98b0-1bcea7dd5ba1)
 
 ## RESULT
-From the training and testing of dataset on the model, a strong deduction can be made that on using Data Science model and ML model we can get the better accuracy in the House Price Prediction.
+From the training and testing of dataset on the model, a strong deduction can be made that Data Science model and ML model we can get the better accuracy in the House Price Prediction.
 
 
 

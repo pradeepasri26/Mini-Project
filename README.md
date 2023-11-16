@@ -52,7 +52,6 @@ plt.show()
 
 ## OUTPUT
 ![image](https://github.com/pradeepasri26/Mini-Project/assets/131433142/f352a1de-6e74-491e-a3d8-51265a6426b0)
-
 ![image](https://github.com/pradeepasri26/Mini-Project/assets/131433142/25302115-06a9-42fb-98b0-1bcea7dd5ba1)
 
 ## RESULT

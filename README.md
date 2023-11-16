@@ -28,7 +28,6 @@ X = data.drop('Price', axis=1)  # Features
 y = data['Price']  # Target variable
 ```
 # Perform one-hot encoding for categorical variables
-
 categorical_cols = ['Brick', 'Neighborhood']  # Update with your categorical column names
 X_encoded = pd.get_dummies(X, columns=categorical_cols)
 
@@ -42,7 +41,6 @@ model.fit(X_train, y_train)
 # Make predictions on the test set
 y_pred = model.predict(X_test)
 
-
 # Plotting the predicted and actual prices
 plt.scatter(y_test, y_pred)
 plt.xlabel("Actual Price")
@@ -52,6 +50,7 @@ plt.show()
 
 ## OUTPUT
 ![image](https://github.com/pradeepasri26/Mini-Project/assets/131433142/f352a1de-6e74-491e-a3d8-51265a6426b0)
+
 ![image](https://github.com/pradeepasri26/Mini-Project/assets/131433142/25302115-06a9-42fb-98b0-1bcea7dd5ba1)
 
 ## RESULT
